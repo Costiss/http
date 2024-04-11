@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"http-impl/utils"
+	"http/utils"
 )
 
 type Config struct {

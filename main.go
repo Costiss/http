@@ -5,8 +5,8 @@ import (
 	"net"
 	"sync"
 
-	"http-impl/request"
-	"http-impl/response"
+	"http/request"
+	"http/response"
 )
 
 const (

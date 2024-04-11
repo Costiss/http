@@ -3,7 +3,7 @@ package response
 import (
 	"fmt"
 
-	statuscode "http-impl/status-code"
+	statuscode "http/status-code"
 )
 
 func addContentLenghtHeader(response string, body string) string {
